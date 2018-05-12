@@ -1,5 +1,5 @@
 # Summary
 
 * [Initial page](README.md)
-* [Hardware](hardware.md)
+* [Hardware\_page](hardware.md)
 
